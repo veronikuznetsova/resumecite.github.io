@@ -117,32 +117,61 @@ hr{
 	text-align: center;
 }
 
-.row1{
-	background-color: #FFFAFA;
+.carousel{
+    background-image:url(../images/2.jpg);
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
+	height:400px;
 }
 
-.res{
-	position: relative; 
-    color: #000000!important;
-    text-align: center;
-    padding: 40px;
-}
-
-.col4, .col5, .col6{
+.carousel-inner{
+	width: 60%;
+	max-width: 900px;
+	padding: 25px;
+	margin: 15px;
 	position: relative;
-	text-align: center;
+	margin: auto!important;
+	background-color: rgba(255, 255, 240, 0.6);
+}
+
+.carousel-item{
 	color:#696969;
-	min-height: 600px;
+	min-height: 300px;
 	border: 1px solid black;
-	margin-right: 10px;
-	margin-left: 10px;
 }
 
 h5{
-	text-align: left;
+	text-align: center;
 	color:#2F4F4F;
-	margin-top:10%!important;
+	margin-top:5%!important;
+	padding-bottom: 50px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+	background-color: #DCDCDC!important;
+}
+
+.info-1{
+	position: relative;
+	margin: 3px;
+	margin-left: 10%;
+}
+
+.progress{
+	width: 70%!important;
+	margin-left: auto!important;
+}
+
+.progress-bar{
+	background-color: #5F9EA0!important;
+}
+
+.pgbar{
+white-space: nowrap;
+margin-left: 50px;
+}
+
+.align-items-center{
+	margin: 5%!important;
 }
