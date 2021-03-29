@@ -175,3 +175,10 @@ margin-left: 50px;
 .align-items-center{
 	margin: 5%!important;
 }
+
+.card-body{
+	padding: 0px!important;
+}
+.card-text{
+	text-align: right;
+}
