@@ -178,7 +178,8 @@ margin-left: 50px;
 
 .card-body{
 	padding: 0px!important;
+	margin: 10px;
 }
 .card-text{
-	text-align: right;
+	text-align: center;
 }
