@@ -9,7 +9,7 @@
 
 .name{
 	position: absolute; 
-    top: 10%;
+    top: 10%!important;
     margin-left: 8%;
     color: #000000!important;
 }
