@@ -16,20 +16,20 @@
 
 .prof{
 	position: absolute;
-	top:16%;
+	top:16%!important;
 	margin-left: 8%;
 	color: #FFFFFF!important;
 }
 
 .btn-1{
 	position: absolute;
-	top:35%;
+	top:35%!important;
 	margin-left: 8%;
 }
 
 .email{
 	position: absolute;
-	top:45%;
+	top:45%!important;
 	margin-left: 8%;
 	color: black!important;
 }
@@ -185,5 +185,5 @@ margin-left: 50px;
 }
 
 .card-title{
-	padding: 0 0 20px;
+	padding: 0 0 20px!important;
 }
